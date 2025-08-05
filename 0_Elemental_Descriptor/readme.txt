@@ -1,1 +1,1 @@
-In formation about elemental descriptor
+Information about elemental descriptor
