@@ -1,0 +1,1 @@
+Logistic classification is a supervised machine learning algorithm used to predict binary or multi-class categorical outcomes based on input features. It estimates probabilities using the logistic (sigmoid) function and assigns class labels based on a decision threshold.
