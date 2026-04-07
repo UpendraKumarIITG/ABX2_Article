@@ -1,0 +1,1 @@
+Before building any model, we need to know whether the features we selected actually have a real relationship with the target variable, or whether any observed relationship is just random coincidence.
